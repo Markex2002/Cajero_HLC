@@ -1,0 +1,4 @@
+Se han ingresado: 1000.0€
+Saldo actual: 2000.0€
+Se han ingresado: 500.0€
+Saldo actual: 2500.0€
